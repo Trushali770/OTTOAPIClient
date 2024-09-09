@@ -1,0 +1,9 @@
+{
+    "log_dir": "logs/apiclient",
+    "base_url": "https://jsonplaceholder.typicode.com",
+    "websocket_url": "wss://fstream.binance.com/ws",
+    "topic": "btcusdt@aggTrade",
+    "max_bytes": 1048576,
+    "backup_count": 5,
+    "log_level": "INFO"
+}
